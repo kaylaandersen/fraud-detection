@@ -3,4 +3,5 @@
 .ipynb_checkpoints
 *.bak
 *.swp
+*.pkl
 data/
